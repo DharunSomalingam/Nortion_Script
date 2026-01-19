@@ -116,7 +116,7 @@ To run the script:
 sh {path_to_your_project}/run_notion.sh "{{file_name}}"
 ```
 
-![image.png](attachment:fc52f1b0-ceb9-471c-b139-051fccb01737:image.png)
+![img1.png](images/img1.png))
 
 This passes the current file name to Python.
 
@@ -129,7 +129,7 @@ This passes the current file name to Python.
 
 Shell commands: Execute: Notion_RUN
 
-![image.png](attachment:a2437214-d681-44d3-acf1-0b9c5073f6d1:image.png)
+![img2.png](images/img2.png)
 
 ---
 
@@ -156,11 +156,11 @@ color blue
 2. In settings, enable **Trigger template on new file creation**.
 3. Set your template folder to `/` and select `buttonTemplate.md`.
 
-![image.png](attachment:da1e74a5-ce8c-446e-98ce-d460c9330689:image.png)
+![img3.png](images/img3.png)
 
 This automatically adds the **"Convert to Notion"** button in every new note.
 
-![image.png](attachment:2c372be9-134e-4335-9c88-a8653fc756a3:image.png)
+![img4.png](images/img4.png)
 
 ## **Quick Summary**
 
